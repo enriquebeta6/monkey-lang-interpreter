@@ -1,3 +1,3 @@
-module enriquebeta6/monkey-lang-interpreter
+module monkey
 
 go 1.18
